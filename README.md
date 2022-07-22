@@ -1,1 +1,2 @@
-# beerstock-api-projeto
+# Beerstock API
+## Projeto proposto pela DIO.
